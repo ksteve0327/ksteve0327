@@ -47,6 +47,8 @@
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=tokyo-night" />
   <br /> -->
 
+  <!-- Activity 사이트 참고 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
+
 </p>
 
 ---
