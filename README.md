@@ -31,6 +31,25 @@
 
 ---
 
+### 📈 My GitHub Activity
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&theme=tokyonight" />
+  <br />
+
+  <!-- GitHub Streak (Markdown 방식으로 안정적) -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=tokyonight)](https://git.io/streak-stats)
+  <br />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=tokyo-night" />
+
+</p>
+
+---
+
 ### 📫 Contact
 
 - 📧 Email: dabeenkim327@gmail.com
