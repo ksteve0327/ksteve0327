@@ -44,7 +44,8 @@
   <br />
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=tokyo-night" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=tokyo-night" />
+  <br /> -->
 
 </p>
 
