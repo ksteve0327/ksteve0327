@@ -40,7 +40,7 @@
   <br />
 
   <!-- GitHub Streak (Markdown 방식으로 안정적) -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=tokyonight)](https://git.io/streak-stats)
+  <!--![GitHub Streak](https://streak-stats.demolab.com?user=ksteve0327&theme=tokyonight&cache_seconds=86400)
   <br />
 
   <!-- GitHub Activity Graph -->
