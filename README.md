@@ -36,7 +36,7 @@
 <p align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&theme=dark" />
   <br />
 
   <!-- GitHub Streak (Markdown 방식으로 안정적) -->
