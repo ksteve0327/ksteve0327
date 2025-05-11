@@ -26,8 +26,8 @@
 - Artificial Intelligence
 - Data Mining
 - Data Analysis
-- Intellectual Property
 - Technology Management
+- Intellectual Property
 
 ---
 
