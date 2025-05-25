@@ -26,7 +26,7 @@
 ### 🌱 I’m currently learning
 
 - Artificial Intelligence
-- Data Mining
+- Data Engineering
 - Data Analysis
 - Technology Management
 - Intellectual Property
