@@ -20,11 +20,8 @@
 
 ### 🌱 I’m currently learning
 
-- Artificial Intelligence
-- Data Engineering
-- Data Analysis
-- Technology Management
-- Intellectual Property
+- Natural Language Processing : Text Mining, Knowledge Extracion, Large Language Models
+- Patent Big Data & IP-R&D : Technology Foresight, Innovation Strategy
 
 ---
 
