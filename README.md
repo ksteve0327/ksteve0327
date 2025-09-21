@@ -51,7 +51,7 @@
 
 - 📧 Email: dabeenkim327@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/da-been-kim](https://www.linkedin.com/in/da-been-kim/)  
-- 📝 Blog: [yourblog.com](https://blog.naver.com/ksteve0327)
+- 📝 Blog: [ksteve0327.github.io](https://ksteve0327.github.io)
 
 ---
 
