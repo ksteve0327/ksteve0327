@@ -23,26 +23,6 @@
 - Natural Language Processing(NLP) : Text Mining, Knowledge Extracion, Large Language Models
 - Patent Big Data & IP-R&D : Technology Foresight, Innovation Strategy
 
----
-
-### 📈 My GitHub Activity
-
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&theme=dark" />
-  <br />
-
-  <!-- GitHub Streak (Markdown 방식으로 안정적) -->
-  <!--![GitHub Streak](https://streak-stats.demolab.com?user=ksteve0327&theme=tokyonight&cache_seconds=86400)
-  <br />
-
-  <!-- GitHub Activity Graph -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=tokyo-night" />
-  <br /> -->
-
-  <!-- Activity 사이트 참고 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
-
 </p>
 
 ---
