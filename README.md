@@ -22,7 +22,7 @@
 ### 🌱 I’m currently learning
 
 - Natural Language Processing(NLP) : Text Mining, Knowledge Extracion, Large Language Models
-- Patent Big Data & IP-R&D : Technology Foresight, Innovation Strategy
+- Knowledge Graph :  Ontology
 
 </p>
 
