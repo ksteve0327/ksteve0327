@@ -1,4 +1,4 @@
-<h3 align="center">I’m Dabeen, and studying to become a Data Scientist!!</h3>
+<h3 align="center">Dabeen Kim</h3>
 
 ---
 
