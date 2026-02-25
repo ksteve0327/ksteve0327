@@ -33,5 +33,3 @@
 - 📝 HomePage: [ksteve0327.github.io](https://ksteve0327.github.io)
 
 ---
-
-> 🎯 I'm passionate about extracting insight from complex data and building smart systems. Let's connect and create something impactful together!
