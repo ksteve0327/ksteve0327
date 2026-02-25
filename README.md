@@ -31,5 +31,3 @@
 - 📧 Email: dabeenkim@hanyang.ac.kr
 - 💼 LinkedIn: [linkedin.com/in/da-been-kim](https://www.linkedin.com/in/da-been-kim/)  
 - 📝 HomePage: [ksteve0327.github.io](https://ksteve0327.github.io)
-
----
