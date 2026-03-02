@@ -19,8 +19,8 @@
 
 ### 🌱 I’m currently learning
 
-- Natural Language Processing(NLP) : Text Mining, Large Language Models
 - Knowledge Graph :  Ontology, Knowledge Base, Knowledge Extracion
+- Natural Language Processing(NLP) : Text Mining, Large Language Models
 
 </p>
 
