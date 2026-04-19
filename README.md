@@ -1,6 +1,6 @@
 <h3 align="center">Dabeen Kim</h3>
 <p align="center">
-  <em>M.S Student @ Hanyang University </em>
+  <em>M.S Student @ Hanyang University · NLP & Management of Technology</em>
 </p>
 
 <p align="center">
