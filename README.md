@@ -1,6 +1,6 @@
 <h3 align="center">Dabeen Kim</h3>
 <p align="center">
-  <em>M.S Student @ Hanyang University · NLP & Management of Technology</em>
+  <em>M.S Student @ Hanyang University · Knowledge Graph & NLP</em>
 </p>
 
 <p align="center">
@@ -30,15 +30,15 @@
 
 ### 🔥 Daily Commits
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ksteve0327&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ksteve0327&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
