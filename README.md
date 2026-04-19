@@ -1,9 +1,15 @@
 <h3 align="center">Dabeen Kim</h3>
+<p align="center">
+  <em>M.S Student @ Hanyang University · Knowledge Graph & NLP</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ksteve0327&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ### 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -12,22 +18,32 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 </p>
 
 ---
 
-### 🌱 I’m currently learning
+### 🌱 I'm currently learning
+- Knowledge Graph : Ontology, Knowledge Base, Knowledge Extraction
+- Natural Language Processing (NLP) : Text Mining, Large Language Models
 
-- Knowledge Graph :  Ontology, Knowledge Base, Knowledge Extracion
-- Natural Language Processing(NLP) : Text Mining, Large Language Models
+---
 
+### 🔥 Daily Commits
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ksteve0327&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 📫 Contact
-
 - 📧 Email: dabeenkim@hanyang.ac.kr
-- 💼 LinkedIn: [linkedin.com/in/da-been-kim](https://www.linkedin.com/in/da-been-kim/)  
+- 💼 LinkedIn: [linkedin.com/in/da-been-kim](https://www.linkedin.com/in/da-been-kim/)
 - 📝 HomePage: [ksteve0327.github.io](https://ksteve0327.github.io)
