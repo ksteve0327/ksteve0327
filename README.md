@@ -1,7 +1,4 @@
 <h3 align="center">Dabeen Kim</h3>
-<p align="center">
-  <em>M.S Student @ Hanyang University · Knowledge Graph & NLP</em>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ksteve0327&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
