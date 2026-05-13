@@ -31,10 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksteve0327&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksteve0327&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
