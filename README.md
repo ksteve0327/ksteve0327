@@ -20,9 +20,8 @@
 ---
 
 ### 🌱 I'm currently learning
-- Knowledge Graph : Ontology, Knowledge Base, Knowledge Extraction
-- Natural Language Processing (NLP) : Text Mining, Large Language Models
-
+- RAG
+- LLM
 ---
 
 ### 🔥 Daily Commits
