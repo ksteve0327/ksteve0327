@@ -20,7 +20,7 @@
 ---
 
 ### 🌱 I'm currently learning
-- RAG : Knowledge Graph
+- Retrieval-Augmented Generation(RAG) : Knowledge Graph, Brain Science
 - Domain Knowledge-based Analysis : Robotics, Patent
 ---
 
