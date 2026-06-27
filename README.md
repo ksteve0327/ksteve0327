@@ -20,8 +20,8 @@
 ---
 
 ### 🌱 I'm currently learning
-- RAG
-- LLM
+- RAG : Knowledge Graph
+- Domain Knowledge-based Analysis : Robotics, Patent
 ---
 
 ### 🔥 Daily Commits
