@@ -1,7 +1,4 @@
 <h3 align="center">Dabeen Kim</h3>
-<p align="center">
-  <em>M.S Student @ Hanyang University</em>
-</p>
 
 ### 🌱 I'm currently learning
 - LLM Long-term Memory : Episodic Memory, Memory Consolidation
